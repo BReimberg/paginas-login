@@ -1,4 +1,4 @@
-# Sign up/create an account - Log in/sign in <img width="35" height="35" src="./pagina-de-login.png"/>
+# Sign up/create an account - Log in/sign in <img width="35" height="35" src="./icone-login.png"/>
 
 ## Repositório com projetos de páginas de login
 Os projetos terão como base o HTML e CSS e possívelmente JS.
